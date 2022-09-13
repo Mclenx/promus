@@ -1,0 +1,21 @@
+This will be the area where I will brainstorm on the colors, dynamics, code, and the steps I need in order to finish this as soon as possible.
+
+colors
+The colors will be of red white and black
+the background will primarily be off-white with black shadow to create a 3D effect.
+The text will be a dark grey with the occasional red shadowing
+The icons will be primarily red with white and black shadowing
+
+
+dynamics
+will incorporate a basic message box with yes or no questions to help user navigate
+There will be animations 
+Small amount of paralax
+grid area format
+will be for mobile and pc
+
+
+code
+will be written in React, next.js, html and css
+in the website there will be display pages of websites I have done
+
